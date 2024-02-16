@@ -13,5 +13,4 @@ This is a Spring Boot application for managing classrooms, students, and courses
 - Spring MVC
 - Spring Data JPA
 - Hibernate
-- MySQL
 - RESTful APIs for communication between frontend and backend
